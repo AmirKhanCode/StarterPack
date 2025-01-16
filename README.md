@@ -1,7 +1,7 @@
 # StarterPack Script For Fivem
 
 #Dependencie
-Script Barye ESX Fivem
+Script For ESX Fivem
 
 Author amirkhan_code #disocrd id : amirkhan_code
 
