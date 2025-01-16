@@ -1,33 +1,26 @@
 # StarterPack Script For Fivem
 
 #Dependencie
-Script Barye ESX Fivem
+Script For ESX Fivem
 
 Author amirkhan_code #disocrd id : amirkhan_code
 
 Version 1.0.0 
 
-resources/
-└── kits/
-    ├── fxmanifest.lua
-    ├── conig.lua
-    ├── server/
-    │   └── server.lua
-
 #Cmd Active Kits
 
-Kit Normal : /kits starter
+Normal Kits : /kits starter
 
-Kit VIP : /kits vip
+VIP Kits : /kits vip
 
 #Script Capabilities
-1 Kit Normal {
+1 Normal Kits {
     1 phone
     500K Money
     5 Water
     5 Beard
 }
-2 Kit Vip {
+2 VIP Kits {
     1 phone
     500K Money + 500K Kit Normal = 1Mil
     10 Water
@@ -43,9 +36,6 @@ Kit VIP : /kits vip
 To Open The VIP Kit, You Must Enter The ID In The Configuration Section, As Shown In The Example Below.
 
 Config.VipIdentifiers = {
-    "steam:1-3-5-7-9-a-c-e-",   -- مثال شناسه استیم
-    "license:a-b-d-f-2-4-6-8-0"  -- مثال شناسه لایسنس
+    "steam:1-3-5-7-9-a-c-e-",
+    "license:a-b-d-f-2-4-6-8-0"
 }
-
-
-You Must Enter Your Input ! .
