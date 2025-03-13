@@ -22,7 +22,7 @@ Config.Kits = {
             {name = "phone", count = 1},   -- موبایل
             {name = "money", count = 500000},   -- پول تازه کار
             {name = "bread", count = 10},   -- نان
-            {name = "water", count = 10}    -- آب
+            {name = "water", count = 10},   -- آب
             {name = "gold_bar", count = 1},   -- سکه طلا
             {name = "diamond", count = 3}     -- الماس
         },
